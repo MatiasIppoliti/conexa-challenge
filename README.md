@@ -2,6 +2,10 @@
 
 Una aplicación web moderna para explorar y comparar personajes del universo de Rick and Morty. Permite seleccionar dos personajes y analizar los episodios donde aparecen, mostrando episodios exclusivos de cada uno y episodios compartidos.
 
+## 🌐 Demo del proyecto 
+
+Se podrá realizar una prueba del proyecto ingresando a la siguiente url: https://matiasippoliti-conexa-challenge.netlify.app/
+
 ## 🚀 Funcionalidades Principales
 
 - **Listado Paginado de Personajes**: Dos secciones independientes para seleccionar "Character #1" y "Character #2"
