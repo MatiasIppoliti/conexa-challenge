@@ -31,7 +31,7 @@ Una aplicación web moderna para explorar y comparar personajes del universo de 
 
 ```bash
 # Clonar el repositorio
-git clone [repository-url]
+git clone https://github.com/MatiasIppoliti/conexa-challenge.git
 cd challenge-conexa
 
 # Instalar dependencias
